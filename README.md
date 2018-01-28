@@ -3,9 +3,6 @@ Exhibit Technology / Electrical Engineering Intern at the Smithsonian National A
 
 A collection of projects I worked on while interning at the Air and Space museum. Project files are saved in individual folders; project descriptions are listed below.
 
-## Exhibit Technology / Mechanical Engineering Intern at the Smithsonian National Air and Space Museum in Washington, D.C. 
-
-A collection of projects I worked on while interning at the Air and Space museum. Project files are saved in individual folders; project descriptions are listed below.
 
 ### [Moon-to-Earth at light speed exhibit](https://github.com/pjoneja/Portfolio/tree/master/Moon-to-Earth)
 An interactive exhibit showing how long it takes light to travel from the moon to the earth (~1.3 seconds). Built using 28 solid state relays, two 16-output decoders, a bank of LEDs and an Arduino. Written in C/C++. View in person at the Air and Space Museum in D.C.
