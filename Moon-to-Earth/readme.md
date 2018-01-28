@@ -4,9 +4,9 @@ An interactive exhibit showing how long it takes light to travel from the moon t
 ### What it looks like:
 <a href="https://youtu.be/TEhxe4j1OAY" target="_blank"><img src="http://img.youtube.com/vi/TEhxe4j1OAY/0.jpg" 
 alt="moon to earth video" title="moon to earth video" width="240" height="180" border="10" />click for the video</a> 
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Moon-to-Earth/IMG_0862.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Moon-to-Earth/IMG_7341.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Moon-to-Earth/IMG_7352.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Moon-to-Earth/IMG_0862.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Moon-to-Earth/IMG_7341.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Moon-to-Earth/IMG_7352.JPG)
 
 ### How it works:
 * A visitor clicks a button to trigger the exhibit. It's one of those arcade game style buttons, and so it has a spring inside. This means the button sometimes misfires, or doesn't fire at all, because the spring is, well, springing around inside. To fix this reliability issue, the arduino reads the state of the button twice in short succession. If the button is detected to be pressed both times, then it means the button REALLY ACTUALLY has been pressed and the spring has likely stopped moving. This method is called 'debounce'-ing the input from the button. [Lady Ada has a fantastic explanation on her tutorial site](http://www.ladyada.net/learn/arduino/lesson5.html).

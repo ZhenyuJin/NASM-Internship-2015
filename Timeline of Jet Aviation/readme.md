@@ -2,15 +2,15 @@
 An interactive video selector. Visitors press numbered buttons to select videos from a large video catalogue. The videos depict the advances in design and technology of jet-powered aircraft, from early, prototypical jets like the Bell XP-59A to a variety of specialized, modern jets like the Lockheed SR-71 and the Airbus A300. The exhibit has a simple design on the surface, but like everything else at the museum, it was necessary to take many more details into account while designing the user interface.
 
 ### What it looks like:
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/IMG_0934.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/IMG_0935.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/IMG_0923.jpg)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/IMG_0934.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/IMG_0935.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/IMG_0923.jpg)
 
 ### State Machine Design:
 The initial state is a welcome screen, inviting the visitor to select a video he/she would like to view. Each video is represented by a two-digit number from 01-92. For videos 01-09, a single digit will suffice. 
 
 The state machine will remain at the initial state until one of the numbered arcade buttons is clicked. When a button is clicked, the machine advances to an intermediate state, inviting the visitor to input the second digit of their selection. This state is designed to have the same user interface as television channel selection:
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/9_.gif)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Timeline%20of%20Jet%20Aviation/9_.gif)
 
 When a second digit is pressed, the user's two-digit selection is complete and the machine will play the appropriate video numbered 10-92. If after a 5 second timeout, no second digit is input, the machine will begin to play the appropriate video in the range 01-09. Once the media stops playing, the machine returns to its initial state, awaiting a new input from the user. At any state, the red "back" button can be pressed to return immediately to the initial state. This design feature's purpose is reduce user frustration and provide an way back in case of an input error. Essentially, this is done to keep the user in control.
 

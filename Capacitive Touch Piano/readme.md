@@ -2,9 +2,9 @@
 An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/uSD Card, both from Adafruit, as well as an Arduino. View in person at the Smithsonian National Air and Space Museum in D.C. or watch video here.
 
 ### What it looks like
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0865.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0866.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0869.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0865.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0866.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0869.JPG)
 
 ### How it works
 * The MPR121 Capacitive Touch/Proximity Sensor measures baseline capacitance in eight electrodes located under the piano surface.

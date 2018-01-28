@@ -7,10 +7,10 @@ Final installation (video)
 [![youtube](http://img.youtube.com/vi/4MuamwlLiRo/0.jpg)](https://youtu.be/4MuamwlLiRo)
 
 teardown of old hydraulic systems
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Around%20the%20World/IMG_1013.JPG?raw=true)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Around%20the%20World/IMG_1013.JPG?raw=true)
 
 back of current build
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Around%20the%20World/IMG_1127.JPG?raw=true)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Around%20the%20World/IMG_1127.JPG?raw=true)
 
 testing in the workshop (video)
 

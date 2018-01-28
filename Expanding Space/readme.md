@@ -3,13 +3,13 @@ An interactive exhibit intended to show how the expansion of the universe means 
 
 ### What it looks like
 Final Result:
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0948.jpg)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0948.jpg)
 Build and installation:
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0938.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0937.JPG)
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_7434.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0938.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0937.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_7434.JPG)
 I selfied with NASA astronaut Reid Wiseman
-![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_7430.JPG)
+![online](https://github.com/ZhenyuJin/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_7430.JPG)
 
 ### How it works:
 The visitor rotates the handle, which in turn rotates a sprocket embedded below the exhibit's surface. This sprocket is connected by bike chain to a larger sprocket. Attached to this larger sprocket is a rod, that transforms rotational motion into approximate horizontal, linear motion. This linear motion drives the movement of four attachments on which spandex is mounted. As the entire mechanism is activated, the four attachments move closer and away from each other, simulating the expansion of space. Two springs attached to the mechanism ensure the return to the original, unexpanded position. 
