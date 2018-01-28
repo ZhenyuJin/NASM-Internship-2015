@@ -2,9 +2,9 @@
 An interactive exhibit intended to show that the visibile portion of the electromagnetic spectrum is analogous to one octave on a piano. Built using an MPR121 Capacitive Touch Sensor and a VS1053 Music Player Shield w/uSD Card, both from Adafruit, as well as an Arduino. View in person at the Smithsonian National Air and Space Museum in D.C. or watch video here.
 
 ### What it looks like
-![online](https://github.com/pjoneja/Portfolio/blob/master/Capacitive%20Touch%20Piano/IMG_0865.JPG)
-![online](https://github.com/pjoneja/Portfolio/blob/master/Capacitive%20Touch%20Piano/IMG_0866.JPG)
-![online](https://github.com/pjoneja/Portfolio/blob/master/Capacitive%20Touch%20Piano/IMG_0869.JPG)
+![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0865.JPG)
+![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0866.JPG)
+![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Capacitive%20Touch%20Piano/IMG_0869.JPG)
 
 ### How it works
 * The MPR121 Capacitive Touch/Proximity Sensor measures baseline capacitance in eight electrodes located under the piano surface.
@@ -13,7 +13,7 @@ An interactive exhibit intended to show that the visibile portion of the electro
 * The arduino selects and plays the appropriate file from the SD card attached to the VS1053 Music Player Shield
 
 ### How the extended version works
-There's a little easter egg I made: If you play *Mary Had A Little Lamb* on the piano keys, the exhibit will follow up with Kenny Loggins' *Danger Zone*. How it works:
+There's a little easter egg we made: If you play *Mary Had A Little Lamb* on the piano keys, the exhibit will follow up with Kenny Loggins' *Danger Zone*. How it works:
 * An array with 26 integer entries is declared
 * Each time a key is pressed, its number is stored as the 26th entry. (The keys are numbered 0-7)
 * The next time a key is pressed, the entries in the array are rolled back one space, making room for the new entry

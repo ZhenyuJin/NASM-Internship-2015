@@ -7,10 +7,10 @@ Final installation (video)
 [![youtube](http://img.youtube.com/vi/7LiJq8QrP9Y/0.jpg)](https://www.youtube.com/watch?v=7LiJq8QrP9Y)
 
 teardown of old hydraulic systems
-![online](https://github.com/pjoneja/Portfolio/blob/master/Around%20the%20World/IMG_1013.JPG?raw=true)
+![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Around%20the%20World/IMG_1013.JPG?raw=true)
 
 back of current build
-![online](https://github.com/pjoneja/Portfolio/blob/master/Around%20the%20World/IMG_1127.JPG?raw=true)
+![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Around%20the%20World/IMG_1127.JPG?raw=true)
 
 testing in the workshop (video)
 
@@ -29,4 +29,4 @@ There are ~~three~~ five subsystems that work together to make this exhibit come
 5. The Bell and Success lamp. Both components are simply activated by supplying a signal to their respective transformers. The bell requires a 12V 1.0Amp transformer while the success lamp was powered by a 5V 0.5Amp one.
 
 ### Build time
-7 days (and an extra three days install time).
+7 days (and an extra three days installation time).
