@@ -4,7 +4,7 @@ An interactive exhibit showing how long it takes light to travel from the moon t
 ### What it looks like:
 [![online](http://img.youtube.com/vi/TEhxe4j1OAY/0.jpg)](https://youtu.be/TEhxe4j1OAY)
 ![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Moon-to-Earth/IMG_0862.JPG)
-![online](https://github.com/pjoneja/Portfolio/blob/master/Moon-to-Earth/IMG_7341.JPG)
+![online](https://github.com//Portfolio/blob/master/Moon-to-Earth/IMG_7341.JPG)
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Moon-to-Earth/IMG_7352.JPG)
 
 ### How it works:
