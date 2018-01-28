@@ -7,6 +7,7 @@ Final Result:
 Build and installation:
 ![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0938.JPG)
 ![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_0937.JPG)
+![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_7434.JPG)
 I selfied with NASA astronaut Reid Wiseman
 ![online](https://github.com/zjin666/NASM-Internship-2015/blob/master/Expanding%20Space/IMG_7430.JPG)
 
