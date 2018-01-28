@@ -2,8 +2,8 @@
 An interactive exhibit showing how long it takes light to travel from the moon to the earth (~1.3 seconds). Built using 28 solid state relays, two 16-output decoders, a bank of LEDs and an Arduino. Written in C/C++. View in person at the Air and Space Museum in D.C. or watch video here.
 
 ### What it looks like:
-[![online](http://img.youtube.com/vi/pdLoG8gMEHI/0.jpg)](http://www.youtube.com/watch?v=pdLoG8gMEHI)
-![online](https://github.com/pjoneja/Portfolio/blob/master/Moon-to-Earth/IMG_0862.JPG)
+[![online](http://img.youtube.com/vi/TEhxe4j1OAY/0.jpg)](https://youtu.be/TEhxe4j1OAY)
+![online](https://github.com/zjin666/NASM-Internship-2015/master/Moon-to-Earth/IMG_0862.JPG)
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Moon-to-Earth/IMG_7341.JPG)
 ![online](https://github.com/pjoneja/Portfolio/blob/master/Moon-to-Earth/IMG_7352.JPG)
 
